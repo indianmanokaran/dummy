@@ -5,12 +5,16 @@ my favorite color is "blue"
 
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 
 git commitn -m "YYYYY"
 
 
 i am a full stack web developer and full stack mobile App developer nad web hoster
+=======
+my fav animal is "lion"
+>>>>>>> Stashed changes
 =======
 my fav animal is "lion"
 >>>>>>> Stashed changes
