@@ -7,3 +7,6 @@ my favorite color is "blue"
 
 
 git commitn -m "YYYYY"
+
+
+i am a full stack web developer and full stack mobile App developer nad web hoster
